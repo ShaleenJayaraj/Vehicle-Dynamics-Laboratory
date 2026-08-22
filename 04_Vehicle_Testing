@@ -1,0 +1,17 @@
+# Vehicle Testing & Instrumentation
+
+## Objective
+
+Design and build a complete instrumentation system for vehicle dynamics testing.
+
+This project focuses on:
+
+- Vehicle instrumentation
+- Sensor integration
+- GPS
+- Wheel speed sensing
+- Ride height sensing
+- SCADAS data acquisition
+- Python telemetry
+- Vehicle setup
+- Data analysis
