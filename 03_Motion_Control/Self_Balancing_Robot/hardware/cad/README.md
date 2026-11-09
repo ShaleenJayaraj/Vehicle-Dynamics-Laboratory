@@ -1,0 +1,3 @@
+# CAD
+
+SolidWorks source (`source/`), neutral STEP (`step/`), print-ready STL (`stl/`). Tag revisions R0, R1, ...
