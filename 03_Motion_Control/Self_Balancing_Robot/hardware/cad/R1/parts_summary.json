@@ -1,0 +1,134 @@
+{
+  "parts": {
+    "01_lower_deck": {
+      "qty": 1,
+      "bbox": [
+        174.0,
+        140.0,
+        5.0
+      ],
+      "volume_cm3": 110.02,
+      "solid_mass_abs_g": 114.4,
+      "valid": true
+    },
+    "02_upper_deck": {
+      "qty": 1,
+      "bbox": [
+        174.0,
+        140.0,
+        5.0
+      ],
+      "volume_cm3": 104.94,
+      "solid_mass_abs_g": 109.1,
+      "valid": true
+    },
+    "03_column_L100": {
+      "qty": 4,
+      "bbox": [
+        12.0,
+        12.0,
+        100.0
+      ],
+      "volume_cm3": 10.81,
+      "solid_mass_abs_g": 11.2,
+      "valid": true
+    },
+    "03_column_L60": {
+      "qty": 4,
+      "bbox": [
+        12.0,
+        12.0,
+        60.0
+      ],
+      "volume_cm3": 6.48,
+      "solid_mass_abs_g": 6.7,
+      "valid": true
+    },
+    "03_column_L80": {
+      "qty": 4,
+      "bbox": [
+        12.0,
+        12.0,
+        80.0
+      ],
+      "volume_cm3": 8.64,
+      "solid_mass_abs_g": 9.0,
+      "valid": true
+    },
+    "04_battery_tray": {
+      "qty": 1,
+      "bbox": [
+        37.0,
+        110.0,
+        19.0
+      ],
+      "volume_cm3": 21.08,
+      "solid_mass_abs_g": 21.9,
+      "valid": true
+    },
+    "05_carrier_uno": {
+      "qty": 1,
+      "bbox": [
+        90.0,
+        57.3,
+        9.0
+      ],
+      "volume_cm3": 10.22,
+      "solid_mass_abs_g": 10.6,
+      "valid": true
+    },
+    "06_carrier_xy160d": {
+      "qty": 1,
+      "bbox": [
+        90.0,
+        56.0,
+        9.0
+      ],
+      "volume_cm3": 11.87,
+      "solid_mass_abs_g": 12.3,
+      "valid": true
+    },
+    "07_carrier_zx052": {
+      "qty": 1,
+      "bbox": [
+        90.0,
+        40.0,
+        9.0
+      ],
+      "volume_cm3": 8.44,
+      "solid_mass_abs_g": 8.8,
+      "valid": true
+    },
+    "08_carrier_gy521_imu": {
+      "qty": 1,
+      "bbox": [
+        50.0,
+        20.0,
+        7.0
+      ],
+      "volume_cm3": 3.24,
+      "solid_mass_abs_g": 3.4,
+      "valid": true
+    },
+    "09_skid_foot": {
+      "qty": 4,
+      "bbox": [
+        24.0,
+        14.0,
+        35.2
+      ],
+      "volume_cm3": 6.34,
+      "solid_mass_abs_g": 6.6,
+      "valid": true
+    }
+  },
+  "assembly": {
+    "z_lower_deck_underside": 55.0,
+    "z_upper_deck_top": 145.0,
+    "foot_length_below_deck": 35.2,
+    "track_width_wheel_centres": 216.0,
+    "overall_width": 238.0,
+    "grid_holes_lower": 161,
+    "grid_holes_upper": 162
+  }
+}
